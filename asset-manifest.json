@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/enstrteam.github.io/enstrteam/static/css/main.c7f9b537.css",
-    "main.js": "/enstrteam.github.io/enstrteam/static/js/main.a323fded.js",
-    "static/media/Photo.png": "/enstrteam.github.io/enstrteam/static/media/Photo.22c79082392189fbda9e.png",
-    "static/media/Pattern.png": "/enstrteam.github.io/enstrteam/static/media/Pattern.8b93e2127ee44e2a8146.png",
-    "static/media/Exo2.0-Thin.otf": "/enstrteam.github.io/enstrteam/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
-    "index.html": "/enstrteam.github.io/enstrteam/index.html",
-    "main.c7f9b537.css.map": "/enstrteam.github.io/enstrteam/static/css/main.c7f9b537.css.map",
-    "main.a323fded.js.map": "/enstrteam.github.io/enstrteam/static/js/main.a323fded.js.map"
+    "main.css": "./static/css/main.a1f36947.css",
+    "main.js": "./static/js/main.a323fded.js",
+    "static/media/Photo.png": "./static/media/Photo.22c79082392189fbda9e.png",
+    "static/media/Pattern.png": "./static/media/Pattern.8b93e2127ee44e2a8146.png",
+    "static/media/Exo2.0-Thin.otf": "./static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
+    "index.html": "./index.html",
+    "main.a1f36947.css.map": "./static/css/main.a1f36947.css.map",
+    "main.a323fded.js.map": "./static/js/main.a323fded.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7f9b537.css",
+    "static/css/main.a1f36947.css",
     "static/js/main.a323fded.js"
   ]
 }
